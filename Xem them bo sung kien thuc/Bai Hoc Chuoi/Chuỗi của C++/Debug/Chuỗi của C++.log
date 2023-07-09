@@ -1,0 +1,19 @@
+﻿Build started 5/12/2015 10:05:47 PM.
+     1>Project "C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Chuỗi của C++\Chuỗi của C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\nguyenvietnamson\desktop\ktlt sang thu 4 (13-5)\bai hoc chuoi\chuỗi của c++\source.cpp(40): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(253) : see declaration of 'strrev'
+     1>c:\users\nguyenvietnamson\desktop\ktlt sang thu 4 (13-5)\bai hoc chuoi\chuỗi của c++\source.cpp(45): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strlwr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(250) : see declaration of 'strlwr'
+     1>c:\users\nguyenvietnamson\desktop\ktlt sang thu 4 (13-5)\bai hoc chuoi\chuỗi của c++\source.cpp(48): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(255) : see declaration of 'strupr'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Debug\Chuỗi của C++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Debug\Chuỗi của C++.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Debug\Chuỗi của C++.lib" /MACHINE:X86 Debug\Source.obj
+         Chuỗi của C++.vcxproj -> C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Debug\Chuỗi của C++.exe
+     1>Done Building Project "C:\Users\NguyenVietNamSon\Desktop\KTLT sang thu 4 (13-5)\Bai Hoc Chuoi\Chuỗi của C++\Chuỗi của C++.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59

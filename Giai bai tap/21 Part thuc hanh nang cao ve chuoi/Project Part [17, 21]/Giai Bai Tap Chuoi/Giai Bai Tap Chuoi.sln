@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Các hàm hỗ trợ của chuỗi bên C++", "Các hàm hỗ trợ của chuỗi bên C++\Các hàm hỗ trợ của chuỗi bên C++.vcxproj", "{F8DD7862-6A45-437D-9490-B75533CA62E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tự viết các hàm xử lý", "Tự viết các hàm xử lý\Tự viết các hàm xử lý.vcxproj", "{30198C73-CA8B-4D4A-B140-F60954BACC82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài 6", "Bài 6\Bài 6.vcxproj", "{1D117803-7124-49A7-9806-AA44EC685266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DD7862-6A45-437D-9490-B75533CA62E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8DD7862-6A45-437D-9490-B75533CA62E6}.Debug|Win32.Build.0 = Debug|Win32
+		{F8DD7862-6A45-437D-9490-B75533CA62E6}.Release|Win32.ActiveCfg = Release|Win32
+		{F8DD7862-6A45-437D-9490-B75533CA62E6}.Release|Win32.Build.0 = Release|Win32
+		{30198C73-CA8B-4D4A-B140-F60954BACC82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30198C73-CA8B-4D4A-B140-F60954BACC82}.Debug|Win32.Build.0 = Debug|Win32
+		{30198C73-CA8B-4D4A-B140-F60954BACC82}.Release|Win32.ActiveCfg = Release|Win32
+		{30198C73-CA8B-4D4A-B140-F60954BACC82}.Release|Win32.Build.0 = Release|Win32
+		{1D117803-7124-49A7-9806-AA44EC685266}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D117803-7124-49A7-9806-AA44EC685266}.Debug|Win32.Build.0 = Debug|Win32
+		{1D117803-7124-49A7-9806-AA44EC685266}.Release|Win32.ActiveCfg = Release|Win32
+		{1D117803-7124-49A7-9806-AA44EC685266}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

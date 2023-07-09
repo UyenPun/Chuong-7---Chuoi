@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vấn đề lưu ý khi nhập chuỗi", "Vấn đề lưu ý khi nhập chuỗi\Vấn đề lưu ý khi nhập chuỗi.vcxproj", "{FC362B61-C85A-4045-8BB2-8145ACD1E978}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "So Sánh Chuỗi", "So Sánh Chuỗi\So Sánh Chuỗi.vcxproj", "{FE9F737D-E443-4A11-B8CE-D62F9FE71497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bài tập 1", "Bài tập 1\Bài tập 1.vcxproj", "{F81242DF-B491-4B3A-82B4-1C4EFDF1723C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thêm - Xóa", "Thêm - Xóa\Thêm - Xóa.vcxproj", "{AE018AC0-7A28-43D7-9507-DD31A7A029E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chuỗi của C++", "Chuỗi của C++\Chuỗi của C++.vcxproj", "{8B5B490D-BFCC-43B7-9AFE-5B7EABFCF4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC362B61-C85A-4045-8BB2-8145ACD1E978}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC362B61-C85A-4045-8BB2-8145ACD1E978}.Debug|Win32.Build.0 = Debug|Win32
+		{FC362B61-C85A-4045-8BB2-8145ACD1E978}.Release|Win32.ActiveCfg = Release|Win32
+		{FC362B61-C85A-4045-8BB2-8145ACD1E978}.Release|Win32.Build.0 = Release|Win32
+		{FE9F737D-E443-4A11-B8CE-D62F9FE71497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE9F737D-E443-4A11-B8CE-D62F9FE71497}.Debug|Win32.Build.0 = Debug|Win32
+		{FE9F737D-E443-4A11-B8CE-D62F9FE71497}.Release|Win32.ActiveCfg = Release|Win32
+		{FE9F737D-E443-4A11-B8CE-D62F9FE71497}.Release|Win32.Build.0 = Release|Win32
+		{F81242DF-B491-4B3A-82B4-1C4EFDF1723C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F81242DF-B491-4B3A-82B4-1C4EFDF1723C}.Debug|Win32.Build.0 = Debug|Win32
+		{F81242DF-B491-4B3A-82B4-1C4EFDF1723C}.Release|Win32.ActiveCfg = Release|Win32
+		{F81242DF-B491-4B3A-82B4-1C4EFDF1723C}.Release|Win32.Build.0 = Release|Win32
+		{AE018AC0-7A28-43D7-9507-DD31A7A029E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE018AC0-7A28-43D7-9507-DD31A7A029E1}.Debug|Win32.Build.0 = Debug|Win32
+		{AE018AC0-7A28-43D7-9507-DD31A7A029E1}.Release|Win32.ActiveCfg = Release|Win32
+		{AE018AC0-7A28-43D7-9507-DD31A7A029E1}.Release|Win32.Build.0 = Release|Win32
+		{8B5B490D-BFCC-43B7-9AFE-5B7EABFCF4AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B5B490D-BFCC-43B7-9AFE-5B7EABFCF4AF}.Debug|Win32.Build.0 = Debug|Win32
+		{8B5B490D-BFCC-43B7-9AFE-5B7EABFCF4AF}.Release|Win32.ActiveCfg = Release|Win32
+		{8B5B490D-BFCC-43B7-9AFE-5B7EABFCF4AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

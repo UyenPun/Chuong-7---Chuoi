@@ -1,0 +1,35 @@
+﻿Build started 8/30/2015 9:45:33 PM.
+     1>Project "C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Một Số Hàm Căn Bản Trên Chuỗi\Một Số Hàm Căn Bản Trên Chuỗi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(29): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(32): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(253) : see declaration of 'strrev'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(40): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(249) : see declaration of 'stricmp'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(46): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(67): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(70): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(73): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(76): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(81): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+     1>c:\users\nguyenvietnamson\desktop\ktlt buoi 17\ly thuyet ve chuoi ben c\một số hàm căn bản trên chuỗi\source.cpp(111): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Debug\Một Số Hàm Căn Bản Trên Chuỗi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Debug\Một Số Hàm Căn Bản Trên Chuỗi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Debug\Một Số Hàm Căn Bản Trên Chuỗi.lib" /MACHINE:X86 Debug\Source.obj
+         Một Số Hàm Căn Bản Trên Chuỗi.vcxproj -> C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Debug\Một Số Hàm Căn Bản Trên Chuỗi.exe
+     1>Done Building Project "C:\Users\NguyenVietNamSon\Desktop\KTLT Buoi 17\Ly Thuyet Ve Chuoi Ben C\Một Số Hàm Căn Bản Trên Chuỗi\Một Số Hàm Căn Bản Trên Chuỗi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
